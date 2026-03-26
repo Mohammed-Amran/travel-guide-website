@@ -14,8 +14,6 @@ This is a Travel Guide Website, built using html, css, JS, and PHP.
 - Javascript
 - php
 
-## Screenshots
-
 
 ## How to run the website
 1. Clone to the repository into a folder.
