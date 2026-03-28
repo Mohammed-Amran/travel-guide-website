@@ -1,5 +1,5 @@
 # Travel-Guide Website 🧳✈️🗽
-This is a Travel Guide Website, built using html, css, JS, and PHP.
+A Travel Guide Website, that suggests different locations to visit with different type of packages. Built using html, css, JS, and PHP.
 
 ## Features
 - Registration.
