@@ -1,4 +1,4 @@
-# Web-Project-Travel-Guide 🧳✈️🗽
+# Travel-Guide Website 🧳✈️🗽
 This is a Travel Guide Website, built using html, css, JS, and PHP.
 
 ## Features
