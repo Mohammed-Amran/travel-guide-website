@@ -13,6 +13,7 @@ A Travel Guide Website, that suggests different locations to visit with differen
 - css
 - Javascript
 - php
+- Mysql
 
 
 ## How to run the website
